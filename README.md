@@ -15,7 +15,7 @@ Des ressources en ligne pour devenir un maître de l'administration de M365.
 + [Microsoft 365 Licencing](https://m365maps.com/) - Site web regroupant des informations quant aux licences de Microsoft 365. Comprend une matrice des fonctionnalités par type de licence.
 
 # Azure
-+ [Azure Charts](https://azurecharts.com) - Exploration de possibilités d'environnements infonuagique Azure.
++ [Azure Charts](https://azurecharts.com) - Exploration des possibilités d'architecture infonuagique avec Azure.
 
 # Cybersécurité
 Pleins de d'outils, de documentation et d'informations pour assurer la robustesse et la sécurité de tes systèmes.
